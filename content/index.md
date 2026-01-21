@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-21T17:33:50.403+03:00
-modified: 2026-01-21T17:55:14.536+03:00
+modified: 2026-01-21T19:10:32.078+03:00
 cssclasses: ""
 ---
 
@@ -9,4 +9,7 @@ cssclasses: ""
 
 ---
 
-pisun
+DJ pisun 🎶
+
+
+- [[Страны/index\|Страны]]
